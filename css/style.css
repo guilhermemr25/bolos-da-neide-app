@@ -79,6 +79,7 @@ main {
 #enunciado {
     margin-top: 20px;
     font-weight: bold;
+    color: #f26284
 }
 
 #bolos {
@@ -102,7 +103,7 @@ main {
 .bolo img {
     width: 100%;
     border-radius: 0px;
-    height: 220px;
+    height: 300px;
     object-fit: cover;
 }
 
