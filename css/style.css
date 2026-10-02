@@ -136,18 +136,23 @@ footer {
 
 table {
     width: 100%;
-    max-width: 600px;
     border-collapse: collapse;
     margin-top: 20px;
 }
 
 th, td {
-    border: 1px solid #cccccc;
+    border: 2px solid #f26085;
     padding: 10px;
     text-align: left;
+    font-weight: bold;
 }
 
 th {
-    background-color: #2c3e50;
-    color: white;
+    background-color: #ffbece;
+    color: black;
+}
+
+#valores-tabela, #massa-tabela {
+    background-color: #ffbece;
+    color: black;
 }
